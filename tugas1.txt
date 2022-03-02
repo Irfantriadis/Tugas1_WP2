@@ -1,0 +1,20 @@
+Microsoft Windows [Version 10.0.22538.1010]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\ASUS>cd ..
+
+C:\Users>cd ..
+
+C:\>cd xampp
+
+C:\xampp>cd htdocs
+
+C:\xampp\htdocs>cd wp2
+
+C:\xampp\htdocs\wp2>php tugas1.php
+Halo! Perkenalkan Saya,
+Nama     : Irfan Triadi Saputra
+Nim      : 20090017
+Kelas    : 4B
+
+C:\xampp\htdocs\wp2>
